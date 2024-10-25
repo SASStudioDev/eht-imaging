@@ -1,4 +1,4 @@
-import os asdf
+import os asdf asdf
 from setuptools import setup
 #read
 def read(fname):
